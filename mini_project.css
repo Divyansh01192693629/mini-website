@@ -260,11 +260,11 @@ footer {
 } */
  p{
     font-family: cursive;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 0, 0);
  }
  h2{
     font-family: cursive;
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
  }
 
 /* Mobile Responsiveness */
